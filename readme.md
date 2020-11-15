@@ -4,7 +4,7 @@ This Python script takes an image, samples points at random and uses them as cir
 
 ## Requirements
 
-This project uses `numpy`, `pillow` and `click`. Install them by running
+This project uses `numpy`, `scipy`, `pillow` and `click`. Install them by running
 
 ```
 pip install -r requirements.txt
